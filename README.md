@@ -1,4 +1,3 @@
-## Hi there 👋
 ### 👋 Hi, I'm Naga Vinay Damarasing!
 - 🌐 System Admin & Cloud Enthusiast
 - ☁️ Skilled in AWS, Linux, Shell Scripting
