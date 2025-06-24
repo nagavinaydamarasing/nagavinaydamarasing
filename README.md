@@ -1,4 +1,11 @@
 ## Hi there 👋
+### 👋 Hi, I'm Naga Vinay Damarasing!
+- 🌐 System Admin & Cloud Enthusiast
+- ☁️ Skilled in AWS, Linux, Shell Scripting
+- 🛠️ Learning DevOps, Terraform & Kubernetes
+- 💬 Ask me about Cloud Support or Linux Servers
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nagavinaydamarasing/)
 
 <!--
 **nagavinaydamarasing/nagavinaydamarasing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
